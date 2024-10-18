@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**MynnTapp/MynnTapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi, I'm Desmynn! 👋
 
 I'm an aspiring software engineer with a passion for building applications that solve real-world problems. I love coding with JavaScript, HTML, CSS, and React and continuously learning new technologies to level up my skills.
