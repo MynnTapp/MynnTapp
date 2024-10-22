@@ -23,3 +23,5 @@ I’m always working on exciting projects and am driven by the desire to make an
 -->
 
   Profile website coming soon...
+
+Javascript Certification: https://www.freecodecamp.org/certification/fccb432e555-2c68-4769-a9b0-f219a69331bc/javascript-algorithms-and-data-structures-v8
