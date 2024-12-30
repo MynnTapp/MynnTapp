@@ -7,6 +7,7 @@ I'm an aspiring software engineer with a passion for building applications that 
 - Bakery Simulator
 - Town of Salem 2
 - Just Dance
+- anime
 
 ### 🌟 Hobbies
 - Dancing 💃
