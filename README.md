@@ -1,7 +1,7 @@
 
 # Hi, I'm Desmynn! 👋
 
-I'm an aspiring software engineer with a passion for building applications that solve real-world problems. I love coding with JavaScript, HTML, CSS, and React and continuously learning new technologies to level up my skills.
+I'm an aspiring software engineer with a passion for building applications that solve real-world problems. I love coding with JavaScript, HTML, CSS, SQL, non-SQL databases, Node.js, Express, and React and continuously learning new technologies to level up my skills.
 
 ### 🎮 Favorite Games
 - Bakery Simulator
